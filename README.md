@@ -11,5 +11,9 @@ A simple arcade style game made with pygame.
 		q to quit when you are in the pygame window
 
 - Demo:
-		https://user-images.githubusercontent.com/95994962/181937433-ead4e9f8-7fc9-4564-9992-818a43c35341.mov
+
+	![video](https://user-images.githubusercontent.com/95994962/181937644-02d51b62-b5db-458e-916f-d7e620e918e1.gif)
+
+
+	video download: https://user-images.githubusercontent.com/95994962/181937674-bcba667e-f7d7-4e12-a15a-d6f796567526.mov
 

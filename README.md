@@ -22,6 +22,6 @@ A simple arcade style game made with pygame.
 - Aditional Notes:
 
 	* This program has only been tested on MacOS.
-	* When you run it in the command line, cd to the dodge folder first.
+	* When you run it in the command line, cd to the "game files" folder first.
 	* the high score is read from the high_score.txt file.
 	* I did not make the sounds in Dodge, they come from Google Chrome's Dino Run.
